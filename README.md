@@ -12,4 +12,5 @@ SlackBuilds maintained by pink-mist / Andreas Guldstrand
   - perl-local-lib
 
 # In this repository
-None yet...
+* perl-Text-Autoformat
+* perl-Text-Reform
