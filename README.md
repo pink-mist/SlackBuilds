@@ -14,3 +14,8 @@ SlackBuilds maintained by pink-mist / Andreas Guldstrand
 # In this repository
 * perl-Text-Autoformat
 * perl-Text-Reform
+* perl-File-Find-Rule
+* perl-Number-Compare
+* perl-Text-CSV
+* perl-Text-Glob
+* perl-Time-Piece
