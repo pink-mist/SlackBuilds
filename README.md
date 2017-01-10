@@ -19,4 +19,4 @@ SlackBuilds maintained by pink-mist / Andreas Guldstrand
 * perl-Text-CSV
 * perl-Text-Glob
 * perl-Time-Piece
-* perl-Text-Tabs
+* perl-Text-Tabs+Wrap
