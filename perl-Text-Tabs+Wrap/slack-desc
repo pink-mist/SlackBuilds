@@ -5,15 +5,15 @@
 # You must make exactly 11 lines for the formatting to be correct.  It's also
 # customary to leave one space after the ':' except on otherwise blank lines.
 
-              |-----handy-ruler------------------------------------------------------|
-perl-Text-Tabs: perl-Text-Tabs+Wrap (expand and unexpand tabs + line wrapping)
-perl-Text-Tabs:
-perl-Text-Tabs: Text::Tabs does most of what the unix utilities expand(1) and
-perl-Text-Tabs: unexpand(1) do.
-perl-Text-Tabs:
-perl-Text-Tabs: Text::Wrap::wrap() is a very simple paragraph formatter.
-perl-Text-Tabs:
-perl-Text-Tabs:
-perl-Text-Tabs: 
-perl-Text-Tabs:
-perl-Text-Tabs:
+                   |-----handy-ruler------------------------------------------------------|
+perl-Text-Tabs+Wrap: perl-Text-Tabs+Wrap (expand and unexpand tabs + line wrapping)
+perl-Text-Tabs+Wrap:
+perl-Text-Tabs+Wrap: Text::Tabs does most of what the unix utilities expand(1) and
+perl-Text-Tabs+Wrap: unexpand(1) do.
+perl-Text-Tabs+Wrap:
+perl-Text-Tabs+Wrap: Text::Wrap::wrap() is a very simple paragraph formatter.
+perl-Text-Tabs+Wrap:
+perl-Text-Tabs+Wrap:
+perl-Text-Tabs+Wrap: 
+perl-Text-Tabs+Wrap:
+perl-Text-Tabs+Wrap:
