@@ -2,10 +2,11 @@
 
 # Slackware build script for perl-Text-Autoformat
 # Written by Šime Ramov <s@ramov.com>
+# 2017-01-18 - Updated by Andreas Guldstrand <andreas.guldstrand@gmail.com>
 
 SRCNAM=Text-Autoformat
 PRGNAM=perl-$SRCNAM
-VERSION=${VERSION:-1.669004}
+VERSION=${VERSION:-1.74}
 BUILD=${BUILD:-1}
 TAG=${TAG:-_SBo}
 
